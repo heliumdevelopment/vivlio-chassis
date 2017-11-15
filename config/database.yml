@@ -1,0 +1,16 @@
+development:
+  host: localhost
+  port: 27017
+  database: vivlio_dev
+
+#test:
+#  host: localhost
+#  port: 27017
+#  database: vivlio_tst
+#  logfile: development.log
+
+#production:
+#  host: localhost
+#  port: 27017
+#  database: dict_prod
+#  logfile: production.log
